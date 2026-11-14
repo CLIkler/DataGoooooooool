@@ -2,6 +2,11 @@
 import json
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
+try:
+    import flask
+except ModuleNotFoundError as exc:  # pragma: no cover - se resuelve en el entorno real
+    raise RuntimeError("Falta la dependencia 'flask'. Instálala antes de ejecutar DATAGOOL.") from exc
+
 import config
 from controllers import router
 from models import db, log, partido
@@ -11,6 +16,8 @@ from services import limitador, odds_service
 RUTAS_CHAT = {"/api/chat", "/api/chat/estado"}
 RUTAS_ADMIN = {"/api/momios/actualizar", "/api/historial/importar", "/api/tabla/actualizar"}
 
+
+app = flask.Flask(__name__)
 
 class Handler(BaseHTTPRequestHandler):
     def _enviar(self, status, ctype, body):
