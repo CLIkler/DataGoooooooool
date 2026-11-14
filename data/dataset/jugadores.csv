@@ -1,0 +1,21 @@
+id,jugador,equipo,posicion,dorsal,goles,asistencias,rating,xg,minutos,nacionalidad,edad
+1,Paulinho,tol,DEL,26,13,3,7.78,12.1,1360,🇵🇹 Portugal,33
+2,Salomón Rondón,pac,DEL,23,12,2,7.65,9.8,1280,🇻🇪 Venezuela,36
+3,Henry Martín,ame,DEL,9,11,5,7.85,11.4,1340,🇲🇽 México,33
+4,Juan Brunetta,tig,MED,11,9,7,7.62,7.4,1320,🇦🇷 Argentina,28
+5,André-Pierre Gignac,tig,DEL,10,9,2,7.55,8.1,1140,🇫🇷 Francia,40
+6,Roberto Alvarado,gua,MED,25,7,8,7.58,5.9,1390,🇲🇽 México,27
+7,Orbelín Pineda,mty,MED,25,6,6,7.5,5.2,1290,🇲🇽 México,29
+8,Uriel Antuna,pum,MED,21,7,5,7.45,6.1,1260,🇲🇽 México,28
+9,Carlos Rodríguez,cru,MED,19,4,7,7.44,3.8,1410,🇲🇽 México,29
+10,Nicolás Ibáñez,cru,DEL,7,8,3,7.38,7.6,1180,🇦🇷 Argentina,31
+11,Jesús Gallardo,tol,DEF,20,3,5,7.38,2.9,1350,🇲🇽 México,31
+12,Erick Sánchez,ame,MED,28,5,5,7.3,4.2,1220,🇲🇽 México,26
+13,Diber Cambindo,leo,DEL,27,8,2,7.35,6.8,1150,🇨🇴 Colombia,29
+14,Keylor Navas,pum,POR,1,0,0,7.55,0.0,1440,🇨🇷 Costa Rica,39
+15,Kevin Mier,cru,POR,23,0,0,7.48,0.0,1440,🇨🇴 Colombia,25
+16,Luis Malagón,ame,POR,1,0,0,7.46,0.0,1440,🇲🇽 México,29
+17,Raúl Rangel,gua,POR,1,0,0,7.32,0.0,1440,🇲🇽 México,25
+18,Alan Mozo,cru,DEF,2,1,4,7.28,1.5,1310,🇲🇽 México,28
+19,Unai Bilbao,tij,DEF,4,3,1,7.3,2.2,1400,🇪🇸 España,31
+20,Carlos Acevedo,san,POR,1,0,0,7.3,0.0,1440,🇲🇽 México,29

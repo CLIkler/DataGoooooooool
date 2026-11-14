@@ -1,0 +1,23 @@
+services:
+  - type: web
+    name: datagool
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python app.py
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.3
+      - key: GROQ_API_KEY
+        sync: false          # se captura en el panel de Render, nunca en el repositorio
+      - key: GROQ_MODEL
+        value: openai/gpt-oss-120b
+      - key: APIFOOTBALL_KEY
+        sync: false
+      - key: ODDS_API_KEY
+        sync: false
+      - key: ADMIN_TOKEN
+        generateValue: true  # protege los endpoints administrativos
+      - key: LIMITE_CHAT
+        value: "20"

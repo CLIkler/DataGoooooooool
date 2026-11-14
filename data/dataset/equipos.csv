@@ -1,0 +1,19 @@
+clave,equipo,siglas,ciudad,estadio,altitud_m,xg_favor,xg_contra,posesion_pct,tiros_puerta,racha_ultimos_5,puntos,goles_favor,goles_contra,dg,pj,actualizado
+cru,Cruz Azul,CAZ,CDMX,Estadio Azteca,2240,1.7,1.08,55,5,VDVVE,32,,,11,16,2026-11-13
+ame,América,AME,CDMX,Estadio Azteca,2240,1.92,1.05,56,5.6,VVEVD,30,,,16,16,2026-11-13
+gua,Guadalajara,CHI,Zapopan,Estadio Akron,1566,1.52,1.2,53,4.9,VEVVD,30,,,11,16,2026-11-13
+tol,Toluca,TOL,Toluca,Nemesio Díez,2660,1.85,1,55,5.4,VVVEV,27,,,14,16,2026-11-13
+atl,Atlas,ATS,Guadalajara,Estadio Jalisco,1566,1.6,1.15,51,4.9,VVEDV,27,,,-3,16,2026-11-13
+san,Santos Laguna,SAN,Torreón,Estadio Corona,1120,1.25,1.6,47,4,DVDEV,25,,,3,16,2026-11-13
+leo,León,LEO,León,Nou Camp,1815,1.62,1.18,51,4.8,VEVDV,23,,,1,16,2026-11-13
+pac,Pachuca,PAC,Pachuca,Estadio Hidalgo,2400,1.55,1.3,50,4.7,DVEDV,22,,,9,16,2026-11-13
+tij,Tijuana,TIJ,Tijuana,Estadio Caliente,20,1.5,1.25,49,4.7,VEVDE,22,,,3,16,2026-11-13
+mty,Monterrey,MTY,Monterrey,Estadio BBVA,540,1.55,1.3,56,5,DDVED,21,,,1,16,2026-11-13
+pum,Pumas,PUM,CDMX,Olímpico Universitario,2240,1.45,1.35,52,4.6,EVDVE,21,,,-2,16,2026-11-13
+que,Querétaro,QRO,Querétaro,La Corregidora,1820,1.58,1.2,50,4.7,VDVEV,20,,,-5,16,2026-11-13
+pue,Puebla,PUE,Puebla,Estadio Cuauhtémoc,2135,1.35,1.4,49,4.3,DEVDD,19,,,-4,16,2026-11-13
+asl,Atlético San Luis,ASL,San Luis Potosí,Libertad Financiera,1860,1.38,1.38,50,4.4,EVDEV,19,,,-5,16,2026-11-13
+tig,Tigres,TIG,Monterrey,Estadio Universitario,540,1.38,1.3,52,4.6,DEDVD,15,,,-8,16,2026-11-13
+atn,Atlante,ATE,CDMX,Estadio Azteca,2240,1.2,1.55,47,3.9,DEDVD,14,,,-10,16,2026-11-13
+nec,Necaxa,NEC,Aguascalientes,Estadio Victoria,1888,1.15,1.55,46,3.8,DDEDV,13,17,28,-11,16,2026-11-13
+jua,FC Juárez,JUA,Cd. Juárez,Olímpico Benito Juárez,1140,1,1.75,44,3.5,DDEDD,11,,,-21,16,2026-11-13

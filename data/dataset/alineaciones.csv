@@ -1,0 +1,199 @@
+equipo,dt,esquema,dorsal,jugador,posicion,rating
+ame,André Jardine,4-3-3,1,L. Malagón,POR,7.46
+ame,André Jardine,4-3-3,5,K. Álvarez,LD,7.15
+ame,André Jardine,4-3-3,3,I. Reyes,DFC,7.18
+ame,André Jardine,4-3-3,29,R. Juárez,DFC,7.05
+ame,André Jardine,4-3-3,26,C. Borja,LI,7.1
+ame,André Jardine,4-3-3,6,J. dos Santos,MCD,7.2
+ame,André Jardine,4-3-3,28,É. Sánchez,MC,7.3
+ame,André Jardine,4-3-3,10,D. Valdés,MCO,7.35
+ame,André Jardine,4-3-3,17,A. Zendejas,ED,7.25
+ame,André Jardine,4-3-3,7,B. Rodríguez,EI,7.28
+ame,André Jardine,4-3-3,9,H. Martín,DC,7.85
+tol,Renato Paiva,4-2-3-1,1,H. González,POR,7.22
+tol,Renato Paiva,4-2-3-1,2,D. Barbosa,LD,7.1
+tol,Renato Paiva,4-2-3-1,4,B. Méndez,DFC,7.3
+tol,Renato Paiva,4-2-3-1,3,A. Briseño,DFC,7.18
+tol,Renato Paiva,4-2-3-1,20,J. Gallardo,LI,7.38
+tol,Renato Paiva,4-2-3-1,35,É. Gutiérrez,MCD,7.25
+tol,Renato Paiva,4-2-3-1,7,V. Guzmán,MC,7.2
+tol,Renato Paiva,4-2-3-1,25,E. López,ED,7.4
+tol,Renato Paiva,4-2-3-1,10,J. Angulo,MCO,7.35
+tol,Renato Paiva,4-2-3-1,16,F. Viñas,EI,7.3
+tol,Renato Paiva,4-2-3-1,26,Paulinho,DC,7.78
+cru,Martín Anselmi,3-5-2,23,K. Mier,POR,7.48
+cru,Martín Anselmi,3-5-2,2,A. Mozo,CAD,7.28
+cru,Martín Anselmi,3-5-2,4,W. Ditta,DFC,7.35
+cru,Martín Anselmi,3-5-2,5,J. Orozco,DFC,7.4
+cru,Martín Anselmi,3-5-2,12,A. Montes,DFC,7.2
+cru,Martín Anselmi,3-5-2,3,O. Campos,CAI,7.18
+cru,Martín Anselmi,3-5-2,19,C. Rodríguez,MCD,7.44
+cru,Martín Anselmi,3-5-2,17,A. García,MC,7.15
+cru,Martín Anselmi,3-5-2,14,J. Calero,MCO,7.22
+cru,Martín Anselmi,3-5-2,7,N. Ibáñez,DC,7.38
+cru,Martín Anselmi,3-5-2,21,G. Fernández,DC,7.32
+tig,Veljko Paunovic,4-2-3-1,1,N. Guzmán,POR,7.28
+tig,Veljko Paunovic,4-2-3-1,14,J. Garza,LD,7.12
+tig,Veljko Paunovic,4-2-3-1,27,J. Angulo,DFC,7.2
+tig,Veljko Paunovic,4-2-3-1,3,M. Farfan,DFC,7.15
+tig,Veljko Paunovic,4-2-3-1,15,A. Franco,LI,7.1
+tig,Veljko Paunovic,4-2-3-1,5,C. Araújo,MCD,7.25
+tig,Veljko Paunovic,4-2-3-1,8,F. Gorriarán,MC,7.3
+tig,Veljko Paunovic,4-2-3-1,77,O. Herrera,ED,7.18
+tig,Veljko Paunovic,4-2-3-1,11,J. Brunetta,MCO,7.62
+tig,Veljko Paunovic,4-2-3-1,20,M. Flores,EI,7.15
+tig,Veljko Paunovic,4-2-3-1,10,A. Gignac,DC,7.55
+gua,Arturo Ortega,4-3-3,1,J. Rangel,POR,7.32
+gua,Arturo Ortega,4-3-3,2,J. Castillo,LD,7.18
+gua,Arturo Ortega,4-3-3,3,D. Campillo,DFC,7.15
+gua,Arturo Ortega,4-3-3,23,D. Aguirre,DFC,7.12
+gua,Arturo Ortega,4-3-3,24,M. Gómez,LI,7.1
+gua,Arturo Ortega,4-3-3,5,B. González,MCD,7.22
+gua,Arturo Ortega,4-3-3,19,K. Castañeda,MC,7.15
+gua,Arturo Ortega,4-3-3,10,E. Álvarez,MC,7.25
+gua,Arturo Ortega,4-3-3,25,R. Alvarado,ED,7.58
+gua,Arturo Ortega,4-3-3,17,R. Marín,EI,7.12
+gua,Arturo Ortega,4-3-3,18,J. Pérez,DC,7.18
+mty,Martín Demichelis,4-2-3-1,1,E. Andrada,POR,7.25
+mty,Martín Demichelis,4-2-3-1,2,R. Chávez,LD,7.18
+mty,Martín Demichelis,4-2-3-1,33,S. Medina,DFC,7.28
+mty,Martín Demichelis,4-2-3-1,4,V. Guzmán,DFC,7.2
+mty,Martín Demichelis,4-2-3-1,3,G. Arteaga,LI,7.22
+mty,Martín Demichelis,4-2-3-1,5,F. Ambríz,MCD,7.2
+mty,Martín Demichelis,4-2-3-1,14,É. Aguirre,MC,7.15
+mty,Martín Demichelis,4-2-3-1,25,O. Pineda,MCO,7.5
+mty,Martín Demichelis,4-2-3-1,10,L. Orellano,ED,7.42
+mty,Martín Demichelis,4-2-3-1,27,R. de la Rosa,EI,7.18
+mty,Martín Demichelis,4-2-3-1,99,H. Cuypers,DC,7.35
+pac,Guillermo Almada,4-2-3-1,25,C. Moreno,POR,7.2
+pac,Guillermo Almada,4-2-3-1,2,S. Barreto,LD,7.15
+pac,Guillermo Almada,4-2-3-1,4,Eduardo Bauermann,DFC,7.22
+pac,Guillermo Almada,4-2-3-1,13,J. Berlanga,DFC,7.1
+pac,Guillermo Almada,4-2-3-1,6,M. Isaís,LI,7.12
+pac,Guillermo Almada,4-2-3-1,28,A. Arroyo,MCD,7.18
+pac,Guillermo Almada,4-2-3-1,26,A. Bautista,MC,7.25
+pac,Guillermo Almada,4-2-3-1,8,A. Domínguez,ED,7.15
+pac,Guillermo Almada,4-2-3-1,187,G. Álvarez,MCO,7.1
+pac,Guillermo Almada,4-2-3-1,19,I. Hernández,EI,7.12
+pac,Guillermo Almada,4-2-3-1,23,S. Rondón,DC,7.65
+atl,Beñat San José,4-3-3,22,A. Sánchez,POR,7.15
+atl,Beñat San José,4-3-3,13,G. Aguirre,LD,7.1
+atl,Beñat San José,4-3-3,28,M. Capasso,DFC,7.2
+atl,Beñat San José,4-3-3,19,A. Frías,DFC,7.15
+atl,Beñat San José,4-3-3,17,J. Lozano,LI,7.12
+atl,Beñat San José,4-3-3,16,M. Valenzuela,MCD,7.18
+atl,Beñat San José,4-3-3,10,Luís Esteves,MC,7.24
+atl,Beñat San José,4-3-3,15,Paulo Ramírez,MC,7.1
+atl,Beñat San José,4-3-3,58,A. González,ED,7.12
+atl,Beñat San José,4-3-3,11,Duk,EI,7.15
+atl,Beñat San José,4-3-3,9,F. Monzón,DC,7.2
+san,Ignacio Ambriz,4-3-3,1,C. Acevedo,POR,7.3
+san,Ignacio Ambriz,4-3-3,4,J. Abella,LD,7.12
+san,Ignacio Ambriz,4-3-3,14,E. Orona,DFC,7.15
+san,Ignacio Ambriz,4-3-3,18,F. Pardo,DFC,7.1
+san,Ignacio Ambriz,4-3-3,3,M. Cuevas,LI,7.08
+san,Ignacio Ambriz,4-3-3,6,J. Güémez,MCD,7.22
+san,Ignacio Ambriz,4-3-3,23,F. Cáseres,MC,7.18
+san,Ignacio Ambriz,4-3-3,10,E. Bullaude,MC,7.25
+san,Ignacio Ambriz,4-3-3,24,D. Medina,ED,7.15
+san,Ignacio Ambriz,4-3-3,7,D. González,EI,7.12
+san,Ignacio Ambriz,4-3-3,9,L. Di Yorio,DC,7.2
+pum,Gustavo Lema,4-2-3-1,1,K. Navas,POR,7.55
+pum,Gustavo Lema,4-2-3-1,2,P. Bennevendo,LD,7.15
+pum,Gustavo Lema,4-2-3-1,5,Rubén Duarte,DFC,7.25
+pum,Gustavo Lema,4-2-3-1,77,Á. Angulo,DFC,7.18
+pum,Gustavo Lema,4-2-3-1,12,C. Calderón,LI,7.12
+pum,Gustavo Lema,4-2-3-1,8,A. Carrasquilla,MCD,7.35
+pum,Gustavo Lema,4-2-3-1,17,S. Córdova,MC,7.3
+pum,Gustavo Lema,4-2-3-1,21,U. Antuna,ED,7.45
+pum,Gustavo Lema,4-2-3-1,18,V. Arteaga,MCO,7.1
+pum,Gustavo Lema,4-2-3-1,14,L. Herrera,EI,7.15
+pum,Gustavo Lema,4-2-3-1,31,R. Morales,DC,7.22
+leo,Eduardo Berizzo,4-3-3,12,J. González,POR,7.15
+leo,Eduardo Berizzo,4-3-3,4,B. Colula,LD,7.1
+leo,Eduardo Berizzo,4-3-3,25,P. Bellón,DFC,7.18
+leo,Eduardo Berizzo,4-3-3,3,Juan José Guevara,DFC,7.12
+leo,Eduardo Berizzo,4-3-3,26,S. Reyes,LI,7.15
+leo,Eduardo Berizzo,4-3-3,6,F. Beltran Cruz,MCD,7.28
+leo,Eduardo Berizzo,4-3-3,8,J. Domínguez,MC,7.15
+leo,Eduardo Berizzo,4-3-3,20,R. Echeverría,MC,7.2
+leo,Eduardo Berizzo,4-3-3,11,I. Díaz,ED,7.18
+leo,Eduardo Berizzo,4-3-3,19,J. Alvarado,EI,7.22
+leo,Eduardo Berizzo,4-3-3,27,D. Cambindo,DC,7.35
+que,Mauro Gerk,4-4-2,1,J. Hernández,POR,7.1
+que,Mauro Gerk,4-4-2,2,L. Abascia,LD,7.12
+que,Mauro Gerk,4-4-2,24,B. Duarte,DFC,7.15
+que,Mauro Gerk,4-4-2,13,D. Reyes,DFC,7.1
+que,Mauro Gerk,4-4-2,12,Paulo Victor,LI,7.12
+que,Mauro Gerk,4-4-2,4,Carlo Adriano,MC,7.15
+que,Mauro Gerk,4-4-2,18,É. Dueñas,MC,7.08
+que,Mauro Gerk,4-4-2,20,A. Alcalá,MD,7.05
+que,Mauro Gerk,4-4-2,28,J. Arellano,MI,7.05
+que,Mauro Gerk,4-4-2,9,A. Ávila,DC,7.18
+que,Mauro Gerk,4-4-2,26,E. Pérez,DC,7.15
+pue,José Manuel de la Torre,4-4-2,33,J. Rodríguez,POR,7.12
+pue,José Manuel de la Torre,4-4-2,12,I. Moreno,LD,7.1
+pue,José Manuel de la Torre,4-4-2,5,F. Almada,DFC,7.18
+pue,José Manuel de la Torre,4-4-2,6,J. Díaz,DFC,7.12
+pue,José Manuel de la Torre,4-4-2,13,Eduardo Navarro,LI,7.08
+pue,José Manuel de la Torre,4-4-2,22,C. Baltazar,MC,7.12
+pue,José Manuel de la Torre,4-4-2,17,R. Castillo,MC,7.15
+pue,José Manuel de la Torre,4-4-2,27,B. Garnica,MD,7.18
+pue,José Manuel de la Torre,4-4-2,25,H. Jurado,MI,7.1
+pue,José Manuel de la Torre,4-4-2,9,L. Hernández,DC,7.15
+pue,José Manuel de la Torre,4-4-2,19,I. Maestro Puch,DC,7.2
+nec,Nicolás Larcamón,4-3-3,1,C. Andrade,POR,7.15
+nec,Nicolás Larcamón,4-3-3,2,E. Martínez,LD,7.1
+nec,Nicolás Larcamón,4-3-3,3,A. Oliveros,DFC,7.2
+nec,Nicolás Larcamón,4-3-3,5,Kaiky Naves,DFC,7.18
+nec,Nicolás Larcamón,4-3-3,20,F. Méndez,LI,7.08
+nec,Nicolás Larcamón,4-3-3,8,L. Faravelli,MCD,7.25
+nec,Nicolás Larcamón,4-3-3,15,D. Ochoa,MC,7.12
+nec,Nicolás Larcamón,4-3-3,21,M. Espíndola,MC,7.1
+nec,Nicolás Larcamón,4-3-3,7,K. Rosero,ED,7.18
+nec,Nicolás Larcamón,4-3-3,90,J. Valencia,EI,7.1
+nec,Nicolás Larcamón,4-3-3,9,J. Carranza,DC,7.22
+tij,Juan Carlos Osorio,4-3-3,2,A. Rodríguez,POR,7.2
+tij,Juan Carlos Osorio,4-3-3,18,A. Mejía,LD,7.1
+tij,Juan Carlos Osorio,4-3-3,4,Unai Bilbao,DFC,7.3
+tij,Juan Carlos Osorio,4-3-3,3,R. Fernández,DFC,7.15
+tij,Juan Carlos Osorio,4-3-3,6,A. Gómez,LI,7.12
+tij,Juan Carlos Osorio,4-3-3,34,F. Boya,MCD,7.2
+tij,Juan Carlos Osorio,4-3-3,10,G. Mora,MC,7.25
+tij,Juan Carlos Osorio,4-3-3,31,Y. Padilla,MC,7.18
+tij,Juan Carlos Osorio,4-3-3,17,R. Árciga,ED,7.15
+tij,Juan Carlos Osorio,4-3-3,7,Adonis Preciado,EI,7.2
+tij,Juan Carlos Osorio,4-3-3,9,Mourad,DC,7.25
+jua,Salvador Valero,4-2-3-1,1,S. Jurado,POR,7.18
+jua,Salvador Valero,4-2-3-1,4,A. Mayorga,LD,7.12
+jua,Salvador Valero,4-2-3-1,3,J. Murillo,DFC,7.15
+jua,Salvador Valero,4-2-3-1,14,E. López,DFC,7.1
+jua,Salvador Valero,4-2-3-1,194,I. Cárdenas,LI,7.08
+jua,Salvador Valero,4-2-3-1,20,J. Aquino,MCD,7.25
+jua,Salvador Valero,4-2-3-1,8,Guilherme Castilho,MC,7.2
+jua,Salvador Valero,4-2-3-1,7,R. Fulgencio,ED,7.18
+jua,Salvador Valero,4-2-3-1,10,J. Torres,MCO,7.22
+jua,Salvador Valero,4-2-3-1,29,E. Ayón,EI,7.15
+jua,Salvador Valero,4-2-3-1,19,Ó. Estupiñán,DC,7.25
+asl,Domènec Torrent,4-3-3,1,A. Sánchez,POR,7.18
+asl,Domènec Torrent,4-3-3,18,A. Cruz,LD,7.12
+asl,Domènec Torrent,4-3-3,6,Juanpe,DFC,7.22
+asl,Domènec Torrent,4-3-3,30,B. Galindo,DFC,7.15
+asl,Domènec Torrent,4-3-3,16,Lucas Esteves,LI,7.18
+asl,Domènec Torrent,4-3-3,5,R. Meraz,MCD,7.15
+asl,Domènec Torrent,4-3-3,7,B. Galdames,MC,7.2
+asl,Domènec Torrent,4-3-3,21,Ó. Macías,MC,7.18
+asl,Domènec Torrent,4-3-3,26,S. Pérez Bouquet,ED,7.15
+asl,Domènec Torrent,4-3-3,20,L. Flores,EI,7.12
+asl,Domènec Torrent,4-3-3,99,F. Mora,DC,7.25
+atn,Víctor Manuel Vucetich,4-4-2,33,R. Rodríguez,POR,7.1
+atn,Víctor Manuel Vucetich,4-4-2,3,R. Franco,LD,7.08
+atn,Víctor Manuel Vucetich,4-4-2,4,J. Díaz,DFC,7.15
+atn,Víctor Manuel Vucetich,4-4-2,19,L. Merolla,DFC,7.18
+atn,Víctor Manuel Vucetich,4-4-2,188,L. Carrillo,LI,7.05
+atn,Víctor Manuel Vucetich,4-4-2,16,J. Esquivel,MC,7.15
+atn,Víctor Manuel Vucetich,4-4-2,23,J. Sierra,MC,7.12
+atn,Víctor Manuel Vucetich,4-4-2,21,S. Santos,MD,7.1
+atn,Víctor Manuel Vucetich,4-4-2,11,Y. Bárcenas,MI,7.22
+atn,Víctor Manuel Vucetich,4-4-2,7,Dudu,DC,7.18
+atn,Víctor Manuel Vucetich,4-4-2,90,Fábio Gomes,DC,7.2
